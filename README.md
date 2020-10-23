@@ -1,4 +1,5 @@
-# GCDFinal
+README.md
+*********************************************************
 Final Project for Getting and Cleaning Data Module
 Repository includes: 
 1) 'README.md' file;
